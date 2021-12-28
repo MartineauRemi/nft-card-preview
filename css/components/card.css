@@ -21,6 +21,28 @@
     height: 17.375rem;
 }
 
+.nft-preview-img-hover-component{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    width: 17.375rem;
+    height: 17.375rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 1rem;
+    background-color: rgba(0, 255, 248, 0.5);
+    cursor: pointer;
+    outline: none;
+    border: none;
+    transition: opacity .3s ease-in-out;
+}
+
+.nft-preview-img-hover-component:hover{
+    opacity: 1;
+}
+
 .nft-infos{
     display: flex;
     align-items: center;
