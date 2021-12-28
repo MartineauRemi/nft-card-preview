@@ -1,0 +1,14 @@
+html{
+
+    /*___colors___*/
+    --dark-primary: #0D192C;
+    --dark-secondary: #15263F;
+    --soft-blue: #8BACD9;
+    --cyan: #00FFF8;
+    --white: #FFFFFF;
+
+    /*___font-weights___*/
+    --fw-light: 300;
+    --fw-regular: 400;
+    --fw-semi-bold: 600;
+}
