@@ -76,7 +76,7 @@ figure{
     z-index: 1;
 }
 
-figcaption{
+figcaption h1{
     font-weight: var(--fw-semi-bold);
     font-size: 1.375rem;
     line-height: 1.75rem;
